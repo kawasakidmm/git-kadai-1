@@ -75,11 +75,10 @@ footer {
     width: 100%;
     display: block;
     margin: 50px 0 ;
-
   }
 
   .step-box {
-    width: 100%;
+    width: 90%;
     margin-bottom: 20px;
   }
 
@@ -88,17 +87,14 @@ footer {
   }
 
   .step-img1 {
-    width: 90%;
     height: 150px;
   }
 
   .step-img2 {
-    width: 90%;
     height: 150px;
   }
 
   .step-img3 {
-    width: 90%;
     height: 150px;
   }
 }
