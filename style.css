@@ -1,6 +1,6 @@
 * {
-  box-sixing: border-box;
-  marin: 0;
+  box-sizing: border-box;
+  margin: 0;
   padding: 0;
 }
 
@@ -79,7 +79,7 @@ footer {
 
   .step-box {
     width: 90%;
-    margin-bottom: 20px;
+    margin: 0px auto 20px ;
   }
 
   .step-box:last-child{
